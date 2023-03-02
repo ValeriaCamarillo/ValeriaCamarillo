@@ -1,4 +1,4 @@
-# Greetings fellow coders! 👋 
+# Hi! Welcome to my README! 👋 
 ![7B82A216-C5C9-4486-AA03-D301EF5D7EF8](https://user-images.githubusercontent.com/109976833/216511391-3d036366-a337-4790-8bdd-41d9925fea8e.jpeg)
 
 
