@@ -6,6 +6,8 @@
 
 ### ✨About Me✨
 
+I am passionate about creating efficient, scalable, and user-friendly applications that solve real-world problems. I enjoy learning and implementing new technologies, collaborating with others, and continuously improving my skills. 
+
 - 🔭 I’m currently working on ***A Health + Fitness App***
 - 🌱 I’m currently learning ***Tailwind CSS + Angular***
 - 👯 I’m looking to collaborate on ***Full Stack Web Apps***
