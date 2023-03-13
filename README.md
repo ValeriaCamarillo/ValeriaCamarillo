@@ -8,12 +8,12 @@
 
 - 🔭 I’m currently working on ***A Health + Fitness App***
 - 🌱 I’m currently learning ***Tailwind CSS***
-- 👯 I’m looking to collaborate on ***Projects***
+- 👯 I’m looking to collaborate on ***Full Stack Web Apps***
 - 🤔 I’m looking for help with ***Algos***
 - 💬 Ask me about ***My Red Belts from Coding Dojo***
 - 😄 Pronouns: ***Her/She***
 - ⚡ Fun fact: ***The photos above were taken in two different countries, can you guess where?***
-- 📫 How to reach me: ***Send me a DM via GitHub or [LinkedIn](https://www.linkedin.com/in/valeria-camarillo-238125254/)***
+- 📫 How to reach me: ***Send me a DM via GitHub or connect with me on [LinkedIn](https://www.linkedin.com/in/valeria-camarillo-238125254/)***
 
 
 <!--
