@@ -7,7 +7,7 @@
 ### ✨About Me✨
 
 - 🔭 I’m currently working on ***A Health + Fitness App***
-- 🌱 I’m currently learning ***Tailwind CSS ***
+- 🌱 I’m currently learning ***Tailwind CSS***
 - 👯 I’m looking to collaborate on ***Projects***
 - 🤔 I’m looking for help with ***Algos***
 - 💬 Ask me about ***My Red Belts from Coding Dojo***
