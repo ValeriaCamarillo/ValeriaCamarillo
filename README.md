@@ -15,7 +15,7 @@ I am passionate about creating efficient, scalable, and user-friendly applicatio
 - 💬 Ask me about ***My Red Belts from Coding Dojo***
 - 😄 Pronouns: ***Her/She***
 - ⚡ Fun fact: ***The photos above were taken in two different countries, can you guess where?***
-- 📫 How to reach me: ***Send me a DM via GitHub or connect with me on [LinkedIn](https://www.linkedin.com/in/valeriabcamarillo/)***
+- 📫 How to reach me: ***Connect with me on [LinkedIn](https://www.linkedin.com/in/valeriabcamarillo/)***
 - 👾 How about a game? ***[Code Match](https://codematch.netlify.app/)***
 
 
