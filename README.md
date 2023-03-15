@@ -16,6 +16,7 @@ I am passionate about creating efficient, scalable, and user-friendly applicatio
 - 😄 Pronouns: ***Her/She***
 - ⚡ Fun fact: ***The photos above were taken in two different countries, can you guess where?***
 - 📫 How to reach me: ***Connect with me on [LinkedIn](https://www.linkedin.com/in/valeriabcamarillo/)***
+- 📧 Send me an email: ***[Valeria Camarillo](mailto:valbcamarillo@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)***
 - 👾 How about a game? ***[Code Match](https://codematch.netlify.app/)***
 
 
