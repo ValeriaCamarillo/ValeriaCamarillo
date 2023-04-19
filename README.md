@@ -13,7 +13,6 @@ I am passionate about creating efficient, scalable, and user-friendly applicatio
 - 👯 I’m looking to collaborate on ***Full Stack Web Apps***
 - 🤔 I’m looking for help with ***Algos***
 - 💬 Ask me about ***My Red Belts from Coding Dojo***
-- 😄 Pronouns: ***She/Her***
 - ⚡ Fun fact: ***The photos above were taken in two different countries, can you guess where?***
 - 📫 How to reach me: ***Connect with me on [LinkedIn](https://www.linkedin.com/in/valeriabcamarillo/)***
 - 📧 Send me an email: ***[Valeria Camarillo](mailto:valbcamarillo@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)***
